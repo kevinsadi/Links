@@ -7,6 +7,7 @@ Learning Resources
 
 Practice Resources
 - [godbolt](https://godbolt.org/) - online C/C++/etc. compiler. 
+- [Shadertoy](https://www.shadertoy.com/) - Great site to practice with fragment shaders (if I didn't want to use my own engine).
 
 Graphics / AI Papers
 - [Paper Collection](https://kesen.realtimerendering.com/) - List of papers submitted at SIGGRAPH, but very easily accessible]
@@ -19,3 +20,4 @@ Videos
 - [Stable Diffusion coding by Computerphile](https://www.youtube.com/watch?v=-lz30by8-sU) - More in depth look of the code of stable diffusion
 - [Multiplayer in Minecraft Clone](https://www.youtube.com/watch?v=UAUdIQZKV88) - First look at programming multiplayer in cpp
 - [The Continuity of Splines](https://www.youtube.com/watch?v=jvPPXbo87ds&t=3975s) - Video essay looking at Splines. Very in depth and informative.
+- [The Art of Code](https://www.youtube.com/watch?v=pmS-F6RJhAk) - Youtube channel for fragment shading. 
