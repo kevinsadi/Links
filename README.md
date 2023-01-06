@@ -9,6 +9,9 @@ Practice Resources
 - [godbolt](https://godbolt.org/) - online C/C++/etc. compiler. 
 - [Shadertoy](https://www.shadertoy.com/) - Great site to practice with fragment shaders (if I didn't want to use my own engine).
 
+Cpp Resources
+- [Blog on Build Systems](https://julienjorge.medium.com/an-overview-of-build-systems-mostly-for-c-projects-ac9931494444) - good overview on build systems to compile code to vs2022, xcode, gnu make (premake vs cmake vs ninja vs meson)
+
 Graphics / AI Papers
 - [Paper Collection](https://kesen.realtimerendering.com/) - List of papers submitted at SIGGRAPH, but very easily accessible]
 - [Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/) - use neural fields to compress geometry
