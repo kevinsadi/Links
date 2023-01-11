@@ -6,6 +6,7 @@ Learning Resources
 - [LearnOpenGL](https://learnopengl.com/) - Describes how to build basic rendering engine from scratch with theory. 
 - [Technical Writing](https://css-tricks.com/technical-writing-for-developers/) - Quick blogpost on technical writing 
 - [Tu Wain Rendering / RayTracing Course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - Entire course from Tu Wain on RayTracing in cpp
+- [3D rotations blog](https://thenumb.at/Exponential-Rotations/) - Blog post describing different methods of rotation
 
 Practice Resources
 - [godbolt](https://godbolt.org/) - online C/C++/etc. compiler. 
@@ -22,6 +23,8 @@ Graphics / AI Papers
 
 Textbooks
 - [Physically Based Rendering: From Theory to Implementation](https://www.pbr-book.org/) - Book on Physically Based Rendering, simply meaning the rendering is based on how light behaves in the real world. This book describes how you can use pbr concepts when implementing a ray tracer.
+- [Game Engine Architecture (3rd edition)](https://www.gameenginebook.com/) - Fundamental book in game engine architecture
+- [Ray Tracing in a weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) - Great concise resource that builds a simple ray tracer without an API
 
 Videos
 - [Stable Diffusion by Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU) - Simple but in depth explanation of stable diffusion
