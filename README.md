@@ -4,6 +4,7 @@ A list of papers / resources online that have helped me. Mostly about AI / Graph
 Learning Resources 
 - [LearnCpp](https://www.learncpp.com/) - Amazing resource to learn c++ from scratch. Great for the experienced programmer or new programmer.
 - [LearnOpenGL](https://learnopengl.com/) - Describes how to build basic rendering engine from scratch with theory. 
+- [The Book of Shaders](https://thebookofshaders.com/) - Resource on slowly learning more and more complicated fragment shaders.
 
 Practice Resources
 - [godbolt](https://godbolt.org/) - online C/C++/etc. compiler. 
