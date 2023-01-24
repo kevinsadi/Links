@@ -6,6 +6,7 @@ Learning Resources
 - [LearnOpenGL](https://learnopengl.com/) - Describes how to build basic rendering engine from scratch with theory. 
 - [The Book of Shaders](https://thebookofshaders.com/) - Resource on slowly learning more and more complicated fragment shaders.
 - [Tu Wain Rendering / RayTracing Course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - Entire course from Tu Wain on RayTracing in cpp
+- [Scratchapixel](https://scratchapixel.com/) - Education site that progressively introduces you to the world of computer graphics
 
 Learning Blogs
 - [Technical Writing](https://css-tricks.com/technical-writing-for-developers/) - Quick blogpost on technical writing 
@@ -14,6 +15,7 @@ Learning Blogs
 Practice Resources
 - [godbolt](https://godbolt.org/) - online C/C++/etc. compiler. 
 - [Shadertoy](https://www.shadertoy.com/) - Great site to practice with fragment shaders (if I didn't want to use my own engine).
+- [RGB -> HSV demo](https://math.hws.edu/graphicsbook/demos/c2/rgb-hsv.html) - Tool to build intuition behind HSV colorspace
 
 Cpp Resources
 - [Blog on Build Systems](https://julienjorge.medium.com/an-overview-of-build-systems-mostly-for-c-projects-ac9931494444) - good overview on build systems to compile code to vs2022, xcode, gnu make (premake vs cmake vs ninja vs meson)
@@ -23,6 +25,10 @@ Graphics / AI Papers
 - [Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/) - use neural fields to compress geometry
 - [Terrain Synthesis from DEGs](https://faculty.cc.gatech.edu/~turk/my_papers/terrain_synth_tvcg.pdf) - Use Elevation Models to create terrain that follows a user's sketch
 - [StyleGAN](https://github.com/NVlabs/stylegan) - Change traditional GAN architecture to include intermediate latent space. Also style mixing.
+
+Transformers / Self Attention Based Methods
+- [Blog on transformers](https://peterbloem.nl/blog/transformers) - very good blog with code on transformers.
+- [Transformer Neural Networks Explained](https://www.youtube.com/watch?v=TQQlZhbC5ps) - Great teaching style and short form video on transformers
 
 Textbooks
 - [Physically Based Rendering: From Theory to Implementation](https://www.pbr-book.org/) - Book on Physically Based Rendering, simply meaning the rendering is based on how light behaves in the real world. This book describes how you can use pbr concepts when implementing a ray tracer.
