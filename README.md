@@ -4,13 +4,18 @@ A list of papers / resources online that have helped me. Mostly about AI / Graph
 Learning Resources 
 - [LearnCpp](https://www.learncpp.com/) - Amazing resource to learn c++ from scratch. Great for the experienced programmer or new programmer.
 - [LearnOpenGL](https://learnopengl.com/) - Describes how to build basic rendering engine from scratch with theory. 
-- [Technical Writing](https://css-tricks.com/technical-writing-for-developers/) - Quick blogpost on technical writing 
+- [The Book of Shaders](https://thebookofshaders.com/) - Resource on slowly learning more and more complicated fragment shaders.
 - [Tu Wain Rendering / RayTracing Course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - Entire course from Tu Wain on RayTracing in cpp
+- [Scratchapixel](https://scratchapixel.com/) - Education site that progressively introduces you to the world of computer graphics
+
+Learning Blogs
+- [Technical Writing](https://css-tricks.com/technical-writing-for-developers/) - Quick blogpost on technical writing 
 - [3D rotations blog](https://thenumb.at/Exponential-Rotations/) - Blog post describing different methods of rotation
 
 Practice Resources
 - [godbolt](https://godbolt.org/) - online C/C++/etc. compiler. 
 - [Shadertoy](https://www.shadertoy.com/) - Great site to practice with fragment shaders (if I didn't want to use my own engine).
+- [RGB -> HSV demo](https://math.hws.edu/graphicsbook/demos/c2/rgb-hsv.html) - Tool to build intuition behind HSV colorspace
 
 Cpp Resources
 - [Blog on Build Systems](https://julienjorge.medium.com/an-overview-of-build-systems-mostly-for-c-projects-ac9931494444) - good overview on build systems to compile code to vs2022, xcode, gnu make (premake vs cmake vs ninja vs meson)
@@ -22,6 +27,10 @@ Graphics / AI Papers
 - [StyleGAN](https://github.com/NVlabs/stylegan) - Change traditional GAN architecture to include intermediate latent space. Also style mixing.
 - [Prompt-to-Prompt Image Editing with Cross Attention Contro](https://arxiv.org/abs/2208.01626) - Change weights of words / add words / replace words in a prompt to edit generative images
 - [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://valle-demo.github.io/) - Leverage Codec Intermediate space and lots of data to create very good TTS. Can replicate someone's voice or emotion with 3 seconds of input
+
+Transformers / Self Attention Based Methods
+- [Blog on transformers](https://peterbloem.nl/blog/transformers) - very good blog with code on transformers.
+- [Transformer Neural Networks Explained](https://www.youtube.com/watch?v=TQQlZhbC5ps) - Great teaching style and short form video on transformers
 
 Textbooks
 - [Physically Based Rendering: From Theory to Implementation](https://www.pbr-book.org/) - Book on Physically Based Rendering, simply meaning the rendering is based on how light behaves in the real world. This book describes how you can use pbr concepts when implementing a ray tracer.
