@@ -20,11 +20,15 @@ Graphics / AI Papers
 - [Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/) - use neural fields to compress geometry
 - [Terrain Synthesis from DEGs](https://faculty.cc.gatech.edu/~turk/my_papers/terrain_synth_tvcg.pdf) - Use Elevation Models to create terrain that follows a user's sketch
 - [StyleGAN](https://github.com/NVlabs/stylegan) - Change traditional GAN architecture to include intermediate latent space. Also style mixing.
+- [Prompt-to-Prompt Image Editing with Cross Attention Contro](https://arxiv.org/abs/2208.01626) - Change weights of words / add words / replace words in a prompt to edit generative images
+- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://valle-demo.github.io/) - Leverage Codec Intermediate space and lots of data to create very good TTS. Can replicate someone's voice or emotion with 3 seconds of input
 
 Textbooks
 - [Physically Based Rendering: From Theory to Implementation](https://www.pbr-book.org/) - Book on Physically Based Rendering, simply meaning the rendering is based on how light behaves in the real world. This book describes how you can use pbr concepts when implementing a ray tracer.
 - [Game Engine Architecture (3rd edition)](https://www.gameenginebook.com/) - Fundamental book in game engine architecture
 - [Ray Tracing in a weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) - Great concise resource that builds a simple ray tracer without an API
+- [Real-Time Rendering](https://www.realtimerendering.com/) - Book on real-time rendering techniques 
+- [Fundamentals of Computer Graphics](https://learning.oreilly.com/library/view/fundamentals-of-computer/9781482229417/) - This textbook is a good resource for the fundamentals of computer graphics. More helpful if one has not had an introductory class on Computer Graphics.
 
 Videos
 - [Stable Diffusion by Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU) - Simple but in depth explanation of stable diffusion
