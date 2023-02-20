@@ -26,8 +26,11 @@ Graphics / AI Papers
 - [Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/) - use neural fields to compress geometry
 - [Terrain Synthesis from DEGs](https://faculty.cc.gatech.edu/~turk/my_papers/terrain_synth_tvcg.pdf) - Use Elevation Models to create terrain that follows a user's sketch
 - [StyleGAN](https://github.com/NVlabs/stylegan) - Change traditional GAN architecture to include intermediate latent space. Also style mixing.
-- [Prompt-to-Prompt Image Editing with Cross Attention Contro](https://arxiv.org/abs/2208.01626) - Change weights of words / add words / replace words in a prompt to edit generative images
-- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://valle-demo.github.io/) - Leverage Codec Intermediate space and lots of data to create very good TTS. Can replicate someone's voice or emotion with 3 seconds of input
+- [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) - Change weights of words / add words / replace words in a prompt to edit generative images
+- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://valle-demo.github.io/) - Leverage Codec Intermediate space and lots of data to create very good TTS. Can replicate someone's voice or emotion with 3 seconds of input.
+- [NeRF-VAE: A Geometry Aware 3D Scene Generative Model](https://arxiv.org/abs/2104.00587) - Use NeRFs to generate novel 3D scenes. Similar idea to autoencoders in general. 
+- [Neural Discrete Representation Learning (VQ-VAE)](https://arxiv.org/abs/1711.00937) - Vector quantized Auto Encoders. The same idea as other continuous autoencoders, but the bottle neck is a quantized quassian distribution. Has solid results, and is used in DALL-E 1 and Muse. 
+
 
 Transformers / Self Attention Based Methods
 - [Blog on transformers](https://peterbloem.nl/blog/transformers) - very good blog with code on transformers.
@@ -46,3 +49,7 @@ Videos
 - [Multiplayer in Minecraft Clone](https://www.youtube.com/watch?v=UAUdIQZKV88) - First look at programming multiplayer in cpp
 - [The Continuity of Splines](https://www.youtube.com/watch?v=jvPPXbo87ds&t=3975s) - Video essay looking at Splines. Very in depth and informative.
 - [The Art of Code](https://www.youtube.com/watch?v=pmS-F6RJhAk) - Youtube channel for fragment shading. 
+
+Math
+- [Matrix Decomposition & Algorithms](https://medium.com/mlearning-ai/matrix-decomposition-and-algorithms-675339d8f48a) - Blog post on the overview of matrix decompositons
+- [Linear Algebra Notes Annotated](Resources/Linear%20Algebra%20Notes%20Annotated.pdf) - All of my notes from when I took Linear Algebra at Georgia Tech
