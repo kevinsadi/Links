@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
     vector<int> arr = {1, 2, 3, 4};
-    for (int i = 0, j = arr.size(); i < arr.size(); j = i++)
+    for (int i = 0, j = arr.size() - 1; i < arr.size(); j = i++)
     {
         // CCW directed edge AB, assuming pts are all CCW
         int A = arr[j];
