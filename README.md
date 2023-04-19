@@ -61,3 +61,4 @@ Math
 
 Git 
 - [Forks and Setting Upstreams](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- [Ignore files already commited to your repo (but added to the gitignore)](https://www.git-tower.com/learn/git/faq/ignore-tracked-files-in-git)
